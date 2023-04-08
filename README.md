@@ -14,3 +14,13 @@ This chatbot is designed to answer various types of questions and provide assist
 
 To run this Chat bot in the web browser use the command:
 ### `streamlit run main.py`
+
+### You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://172.16.103.221:8501
+
+  For better performance, install the Watchdog module:
+
+  ### `xcode-select --install`
+  ### `pip install watchdog`
