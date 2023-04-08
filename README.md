@@ -17,8 +17,8 @@ To run this Chat bot in the web browser use the command:
 
 ### You can now view your Streamlit app in your browser.
 
-  Local URL: http://localhost:8501
-  Network URL: http://172.16.103.221:8501
+#### Local URL: http://localhost:8501
+#### Network URL: http://172.16.103.221:8501
 
   For better performance, install the Watchdog module:
 
