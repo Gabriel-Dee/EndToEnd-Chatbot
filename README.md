@@ -1,5 +1,7 @@
 # EndToEnd-Chatbot
 ## 👋 Welcome to EndToEnd ChatBot!
+![Screenshot 2023-04-08 at 09 33 23](https://user-images.githubusercontent.com/90185518/230707199-32ee916d-0686-495b-968c-d5190a368476.png)
+
 This chatbot is designed to answer various types of questions and provide assistance to users. The following are the intents that the chatbot is currently able to handle:
 
 #### Greeting: The chatbot responds to basic greeting messages such as "Hi", "Hello", and "Hey".
